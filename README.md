@@ -1,6 +1,4 @@
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=35&pause=1000&color=8FF700&width=600&height=76&lines=Hi%2C+I'm+Redeem+Grimm...;A+Rare+Breed+Of+A+Human+Specie!)](https://git.io/typing-svg)
 
 ![Java Gif](https://user-images.githubusercontent.com/45304978/197178414-391a5285-2ea4-46ed-b6d9-58dfd9789fd1.gif)
 
