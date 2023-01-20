@@ -13,6 +13,7 @@
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/45304978/213288910-23a77df1-6b51-4d58-9d9b-374cad969757.svg)
 
 ![giphy-cof2](https://user-images.githubusercontent.com/45304978/213819730-ca3bb98f-d5da-4937-841e-232cbf4f4982.gif)
+![giphy-j](https://user-images.githubusercontent.com/45304978/213820509-d12c9d6a-7073-49d6-a26c-3f2f9e9afa8b.gif)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/redeem-grimm-913805172/)
 ![](https://komarev.com/ghpvc/?username=Redeem-Grimm-Satoshi&color=red)
