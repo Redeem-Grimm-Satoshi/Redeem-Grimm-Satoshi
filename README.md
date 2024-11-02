@@ -1,4 +1,4 @@
-# Hi Alien! Done learning Web3, now creating Web4U! :)*
+# Started a new position at Bloomberg :)*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=900&size=35&pause=1000&color=8FF700&width=600&height=76&lines=Hi%2C+I'm+Redeem+Grimm...;A+Rare+Breed+Of+A+Human+Specie!)](https://git.io/typing-svg)
 
